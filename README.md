@@ -1,6 +1,6 @@
 # Trino Portfolio with Flutter, BloC+Cubit and Clean Architecture
 
-Hey, give a try to take some quick looks on this project.
+Whats up mate, give a try to take some quick looks on this project.
 Made with Flutter WebAssembly (WASM) to be performatic as The Flash, and using all development patterns from Clean Architecture like Uncle Bob.
 
 Made by me, Gabriel Vianna :D
